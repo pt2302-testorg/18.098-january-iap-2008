@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "ed5a9c2e-eb69-c238-52cf-fe3a74ceffde",
+  "instructors": {
+    "content": [
+      "3069cc28-b31e-9000-e3ac-1f88d33c39de"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "99d82e34-49ee-f5b8-52fd-2e5034e52fd2",
+    "website": "18-098-street-fighting-mathematics-january-iap-2008"
+  },
+  "course_title": "Street-Fighting Mathematics",
+  "course_description": "This course teaches the art of guessing results and solving problems without doing a proof or an exact calculation. Techniques include extreme-cases reasoning, dimensional analysis, successive approximation, discretization, generalization, and pictorial analysis. Applications include mental calculation, solid geometry, musical intervals, logarithms, integration, infinite series, solitaire, and differential equations. **(No epsilons or deltas are harmed by taking this course.)** This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "18",
+    "6"
+  ],
+  "extra_course_numbers": "6.099",
+  "primary_course_number": "18.098",
+  "course_image_thumbnail": {
+    "content": "55eff80d-d980-9463-5a60-0a01ed225a32",
+    "website": "18-098-street-fighting-mathematics-january-iap-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Online Textbook"
+  ],
+  "site_uid": "15fd5f11-de7a-4b32-a335-7d34b5eaec01",
+  "site_short_id": "18.098-january-iap-2008",
+  "title": "Course Metadata"
+}
